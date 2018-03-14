@@ -1,0 +1,33 @@
+h1 {
+  font-family: cursive;
+  font-size: 45px;
+}
+
+.open {
+  font-size: 18px;
+  background-color: yellow;
+  width: 300px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-style: italic;
+  background-color: yellow;
+}
+
+ul.menu li {
+  width: 300px;
+  list-style: none;
+  margin: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  : 0px;
+}
